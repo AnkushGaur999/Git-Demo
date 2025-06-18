@@ -4,3 +4,5 @@ this is new content.
 
 // I fixed bugs on this project
 // And also add the functionality
+
+// remove some unused functionality.
