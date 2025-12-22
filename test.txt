@@ -5,9 +5,6 @@ this is new content.
 // I fixed bugs on this project
 // And also add the functionality
 
-<<<<<<< Updated upstream
-// remove some unused functionality.
-=======
 // remove some unused functionality.
 
 Hello How are you? 
@@ -17,4 +14,3 @@ Ya I am fine
 
 
 Whats going on
->>>>>>> Stashed changes
