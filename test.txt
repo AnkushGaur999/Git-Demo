@@ -11,3 +11,6 @@ Hello How are you?
 are you fine or not?
 
 Ya I am fine 
+
+
+Trying Git stash
